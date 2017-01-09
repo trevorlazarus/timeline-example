@@ -20,13 +20,13 @@
         "/collections/digital-collections/makers-of-modern-genetics/genetics-timeline/"
       ],
       "Title": "They get married",
-      "JulianDayStart": "null",
+      "JulianDayStart": 2402603,
       "StartDisplay": "1859",
       "StartDisplayYear": "1859",
-      "JulianDayEnd": "null",
+      "JulianDayEnd": -9223372036854775808,
       "EndDisplay": null,
       "EndDisplayYear": null,
-      "EventId": 6389
+      "EventId": null
     },
     {
       "Body": "\n<p>\nCyrill Napp, the Augustinian abbot of St Thomas's Abbey in Brünn (modern Brno, in the Czech Republic) took a keen interest in the breeding of sheep. He encouraged a friar, Gregor Mendel, to explore questions of heredity by breeding pea plants. Mendel crossed varieties with different characteristics, such as smooth or wrinkled seed cases, and discovered that in most cases characteristics did not blend, but continued to appear in subsequent generations in predictable ratios. He found that 'dominant' characteristics would appear even if inherited from only one parent, while offspring showed 'recessive' characteristics only if they inherited them from both parents. He published his work in the journal of his local natural history society. \n</p>\n<p><a class=\"action\" title=\"Experiments in plant hybridisation\" href=\"http://wellcomelibrary.org/item/b18019857#0/62/-0.8786,0,2.7574,1.3733\" target=\"_blank\">Read&nbsp;Mendel's 'Experiments in plant hybridisation'</a>&nbsp; (translated by William Bateson) \n</p>",
