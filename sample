@@ -20,12 +20,12 @@
         "/collections/digital-collections/makers-of-modern-genetics/genetics-timeline/"
       ],
       "Title": "They get married",
-      "JulianDayStart": null,
-      "StartDisplay": "1859",
-      "StartDisplayYear": "1859",
-      "JulianDayEnd": null,
-      "EndDisplay": "1859",
-      "EndDisplayYear": "1859",
+      "JulianDayStart": 2306062.50000,
+      "StartDisplay": "1557",
+      "StartDisplayYear": "1557",
+      "JulianDayEnd": 2306062.50000,
+      "EndDisplay": null,
+      "EndDisplayYear": null,
       "EventId": null
     },
     {
