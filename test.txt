@@ -1,0 +1,95 @@
+{
+  "Title": "Timeline of Shakespeare's life",
+  "FeatureImagePath": "/content/timelines/history-of-genetics-timeline/images/27491",
+  "Body": "\n<p>\nExplore the key events which shaped what we understand about genetics with this interactive timeline. It features digitised books and archives from&nbsp;<a title=\"Codebreakers: Makers of Modern Genetics\" href=\"http://wellcomelibrary.org/collections/digital-collections/makers-of-modern-genetics/\">Codebreakers: Makers of Modern Genetics</a>, as well as websites and&nbsp;landmark papers&nbsp;in the history of science.&nbsp; \n</p>\n<p>\nMany of the events in the timeline connect to digitised content from the Wellcome Library website. Archival materials less than 100 years old come with additional Terms and Conditions. Once accepted, you can freely access the content.&nbsp;\n</p>",
+  "InitialCaption": "",
+  "IsOpenEnded": false,
+  "Events": [
+    {
+      "Body": "\n<p>\nEvolution had been a topic of vigorous debate in the early 19th century. From his travels in East Asia, in 1858 Alfred Russel Wallace reported similar conclusions to those Charles Darwin had begun to formulate since his voyage to South America on the Beagle: that species arise as a result of natural selection. Darwin's friends persuaded him to publish his work. In 'On the Origin of Species', Darwin argued that those individuals that are best adapted to survive in their environments are most likely to breed successfully, and so pass on their beneficial traits to future generations. Over the eons of geological time this could lead to new species. \n</p>",
+      "Priority": 1,
+      "Year": "1859",
+      "ThumbnailPath": "/content/timelines/history-of-genetics-timeline/images/1859-Darwin-100.jpg",
+      "FeatureImagePath": "/content/timelines/history-of-genetics-timeline/images/1859-Darwin-250",
+      "PromoImagePath": "/content/timelines/history-of-genetics-timeline/images/1859-Darwin-250",
+      "LinkText": "Read 'On the Origin of Species'",
+      "LinkTarget": "http://wellcomelibrary.org/item/b1802922x#0/5/-0.6813,0,2.3626,1.457",
+      "ImageCredit": "",
+      "UsedBy": [
+        "/21461/fomg/fomg-timeline/",
+        "/collections/digital-collections/makers-of-modern-genetics/genetics-timeline/"
+      ],
+      "Title": "Charles Darwin publishes 'On the Origin of Species'",
+      "JulianDayStart": 2400046,
+      "StartDisplay": "1859",
+      "StartDisplayYear": "1859",
+      "JulianDayEnd": -9223372036854775808,
+      "EndDisplay": null,
+      "EndDisplayYear": null,
+      "EventId": 6389
+    },
+    {
+      "Body": "\n<p>\nCyrill Napp, the Augustinian abbot of St Thomas's Abbey in Brünn (modern Brno, in the Czech Republic) took a keen interest in the breeding of sheep. He encouraged a friar, Gregor Mendel, to explore questions of heredity by breeding pea plants. Mendel crossed varieties with different characteristics, such as smooth or wrinkled seed cases, and discovered that in most cases characteristics did not blend, but continued to appear in subsequent generations in predictable ratios. He found that 'dominant' characteristics would appear even if inherited from only one parent, while offspring showed 'recessive' characteristics only if they inherited them from both parents. He published his work in the journal of his local natural history society. \n</p>\n<p><a class=\"action\" title=\"Experiments in plant hybridisation\" href=\"http://wellcomelibrary.org/item/b18019857#0/62/-0.8786,0,2.7574,1.3733\" target=\"_blank\">Read&nbsp;Mendel's 'Experiments in plant hybridisation'</a>&nbsp; (translated by William Bateson) \n</p>",
+      "Priority": 1,
+      "Year": "1866",
+      "ThumbnailPath": "/content/timelines/history-of-genetics-timeline/images/1866-Mendel-portrait-sketch-100.jpg",
+      "FeatureImagePath": "/content/timelines/history-of-genetics-timeline/images/1866-Mendel-portrait-sketch-250",
+      "PromoImagePath": "/content/timelines/history-of-genetics-timeline/images/1866-Mendel-portrait-sketch-250",
+      "LinkText": "",
+      "LinkTarget": "",
+      "ImageCredit": "",
+      "UsedBy": [
+        "/21461/fomg/fomg-timeline/",
+        "/collections/digital-collections/makers-of-modern-genetics/genetics-timeline/"
+      ],
+      "Title": "Gregor Mendel publishes his theory of inheritance",
+      "JulianDayStart": 2402603,
+      "StartDisplay": "1866",
+      "StartDisplayYear": "1866",
+      "JulianDayEnd": -9223372036854775808,
+      "EndDisplay": null,
+      "EndDisplayYear": null,
+      "EventId": 14877
+    },
+    {
+      "Body": "\n<p>\nFrancis Galton, an independent scientist in London and Charles Darwin's cousin, became convinced that Darwin's theory of natural selection applied as much to human ability as to the formation of species. He looked for evidence for this idea by analysing the pedigrees of distinguished judges, poets, statesmen, scientists and sportsmen. In 'Hereditary Genius: An Inquiry into its Causes and Consequences', he applied statistical ideas such as error frequencies to show that human abilities were inherited. Concluding that such abilities might be improved by selective breeding, he later coined the term 'eugenics' to denote this practice. \n</p>\n<p><a class=\"action\" title=\"Hereditary genius\" href=\"http://wellcomelibrary.org/item/b18023745#0/0\">Read 'Hereditary Genius'&nbsp;</a>\n</p>",
+      "Priority": 1,
+      "Year": "1869",
+      "ThumbnailPath": "/content/timelines/history-of-genetics-timeline/images/27070",
+      "FeatureImagePath": "/content/timelines/history-of-genetics-timeline/images/27060",
+      "PromoImagePath": "/content/timelines/history-of-genetics-timeline/images/27060",
+      "LinkText": "",
+      "LinkTarget": "",
+      "ImageCredit": "",
+      "UsedBy": [
+        "/21461/fomg/fomg-timeline/",
+        "/collections/digital-collections/makers-of-modern-genetics/genetics-timeline/"
+      ],
+      "Title": "Francis Galton publishes 'Hereditary Genius'",
+      "JulianDayStart": 2403699,
+      "StartDisplay": "1869",
+      "StartDisplayYear": "1869",
+      "JulianDayEnd": -9223372036854775808,
+      "EndDisplay": null,
+      "EndDisplayYear": null,
+      "EventId": 14885
+    }
+   
+  ],
+  "BackgroundEvents": [
+    {
+      "Title": "World War II",
+      "JulianDayStart": 2429508,
+      "StartDisplay": "1 September 1939",
+      "StartDisplayYear": "1939",
+      "JulianDayEnd": 2431701,
+      "EndDisplay": "2 September 1945",
+      "EndDisplayYear": "1945",
+      "EventId": 6434
+    }
+  ],
+  "EarliestJulianDay": 2400046,
+  "StartDateDisplay": "1859",
+  "LastJulianDay": 2455928,
+  "EndDateDisplay": "2012"
+}
