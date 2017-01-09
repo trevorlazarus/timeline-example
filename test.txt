@@ -1,5 +1,5 @@
 {
-  "Title": "Timeline of Shakespeare's life",
+  "Title": "Timeline of wivker's life",
   "FeatureImagePath": "/content/timelines/history-of-genetics-timeline/images/27491",
   "Body": "\n<p>\nExplore the key events which shaped what we understand about genetics with this interactive timeline. It features digitised books and archives from&nbsp;<a title=\"Codebreakers: Makers of Modern Genetics\" href=\"http://wellcomelibrary.org/collections/digital-collections/makers-of-modern-genetics/\">Codebreakers: Makers of Modern Genetics</a>, as well as websites and&nbsp;landmark papers&nbsp;in the history of science.&nbsp; \n</p>\n<p>\nMany of the events in the timeline connect to digitised content from the Wellcome Library website. Archival materials less than 100 years old come with additional Terms and Conditions. Once accepted, you can freely access the content.&nbsp;\n</p>",
   "InitialCaption": "",
